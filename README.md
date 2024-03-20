@@ -8,7 +8,7 @@ Student Management
 
 ## Live Link
 
-[Project Live Link](https://hashtek-student-management.vercel.app/)
+[Project Live Link](https://devalphaspace.com/)
 
 ## Installation
 
