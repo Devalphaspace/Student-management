@@ -1,4 +1,4 @@
-Here's README template :
+Here's the README template :
 
 ---
 
